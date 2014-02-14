@@ -1,0 +1,20 @@
+<svg width="128" version="1.0" xmlns="http://www.w3.org/2000/svg" height="128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs3451">
+<linearGradient gradientTransform="translate(0,-2.0996159)" xlink:href="#linearGradient3884" id="linearGradient3116" y1="136.40701" x1="83.039467" y2="0.46365681" gradientUnits="userSpaceOnUse" x2="82.681725"/>
+<linearGradient gradientTransform="matrix(8.6028069,0,0,7.9501453,-7.2189,-21.129892)" xlink:href="#linearGradient4081-7-9" id="linearGradient3119" y1="19.542921" x1="16.5" y2="2.5" gradientUnits="userSpaceOnUse" x2="16.5"/>
+<linearGradient gradientTransform="translate(36.473998,-2.0992351)" xlink:href="#linearGradient3884" id="linearGradient3113" y1="136.40701" x1="83.039467" y2="0.46365681" gradientUnits="userSpaceOnUse" x2="82.681725"/>
+<linearGradient id="linearGradient3884">
+<stop offset="0" style="stop-color:#c1c1c1" id="stop3886"/>
+<stop offset="1" style="stop-color:#fff" id="stop3888"/>
+</linearGradient>
+<linearGradient id="linearGradient4081-7-9">
+<stop offset="0" style="stop-color:#eaeaea" id="stop4083-8-6"/>
+<stop offset="1" style="stop-color:#fff" id="stop4085-6-5"/>
+</linearGradient>
+</defs>
+<g style="stroke:#000;stroke-width:.3">
+<path style="fill:url(#linearGradient3119)" id="path3855" d="m 45.227,27.1041 c -0.47028,-5.4e-05 -0.62162,0.07405 -1.08879,0.223598 -0.6097,0.218053 -1.34017,0.547654 -1.87514,1.00619 l -15.4851,13.0805 h -17.0577 c -4.69091,0 -8.34742,3.40001 -8.34742,7.88182 v 34.0428 c 0,4.48183 3.65653,8.10542 8.34742,8.10542 h 17.2997 l 15.2431,13.1923 c 1.93503,1.55244 4.23251,1.54704 6.16983,0 1.93732,-1.54708 3.27892,-4.51467 3.26637,-7.60234 v -13.8072 -33.4838 -13.7513 c 0.0279,-2.64574 -0.92627,-5.27049 -2.41954,-6.93153 -1.11995,-1.24578 -2.64191,-1.95629 -4.05273,-1.95648 z "/>
+<rect width="30.76613" x="59.785999" y="59.717426" rx="6.6479549" height="14.667574" ry="6.6479549" style="opacity:.979;fill:url(#linearGradient3116)" id="rect3880"/>
+<rect width="30.76613" x="96.260002" y="59.717808" rx="6.6479549" ry="6.6479549" height="14.667574" style="opacity:.979;fill:url(#linearGradient3113)" id="rect3109"/>
+</g>
+</svg>

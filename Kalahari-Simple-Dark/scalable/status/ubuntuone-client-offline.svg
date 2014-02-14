@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient3908">
+<stop offset="0" stop-color="#eaeaea"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1.09125 0 -9.78248)" xlink:href="#linearGradient3908" id="linearGradient3914" y1="113.795" x1="75.447" y2="22.927" x2="75.674" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path fill="url(#linearGradient3914)" stroke="#000" stroke-width=".3" d="m63.7549,21.6416c-10.2879,0-18.6354,7.3365-21.3938,17.192-3.1407-1.7283-6.5325-2.9543-10.3234-2.9543-12.5041,0-22.6503,10.6306-22.6503,23.7413 0,2.7501 .7411,5.2666 1.5621,7.7239-6.2225,3.6612-10.629,10.4289-10.629,18.4378 0,11.7996 9.1214,21.3566 20.375,21.3565 .0109,.002 .0233-.002 .0339,0 .1814,.0439 .389,.0711 .5773,.0711h83.1641c.1883,0 .3619-.0273 .5433-.0711h1.7658c11.2537,0 20.409-9.5569 20.409-21.3565 0-8.0089-4.4065-14.7766-10.629-18.4378 .8211-2.4573 1.5621-4.9739 1.5621-7.7239 0-13.1107-10.1462-23.7413-22.6503-23.7413-3.7908,0-7.1827,1.226-10.3234,2.9543-2.7584-9.8554-11.1059-17.192-21.3938-17.192z"/>
+<text x="28.033" y="124.05" font-family="Decker" word-spacing="0" line-height="125%" xml:space="preserve" letter-spacing="0" transform="scale(1.21139 .8255)" font-size="122.40094757000004222px"><tspan x="28.033" y="124.05">!</tspan>
+</text>
+</svg>

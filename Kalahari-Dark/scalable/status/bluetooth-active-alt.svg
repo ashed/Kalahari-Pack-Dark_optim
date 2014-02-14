@@ -1,0 +1,16 @@
+<svg width="128" version="1.0" xmlns="http://www.w3.org/2000/svg" height="128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs id="defs3451">
+<linearGradient id="linearGradient3109">
+<stop offset="0" style="stop-color:#e7e7e7" id="stop3111"/>
+<stop offset="1" style="stop-color:#fafafa" id="stop3113"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.96373296,0,0,0.93162387,-67.342348,117.00407)" xlink:href="#linearGradient3109" id="linearGradient3123" y1="23.418005" x1="140.32375" y2="-127.19294" gradientUnits="userSpaceOnUse" x2="140.90819"/>
+</defs>
+<g id="g3119">
+<rect width="94.620888" x="15.864272" y="8.6077986" rx="22.621628" ry="18.471411" height="116.4472" style="opacity:.979;fill:url(#linearGradient3123);stroke:#000;stroke-width:.3" id="rect3105"/>
+<g style="stroke:#000;stroke-linecap:round;fill:none" id="g3901" transform="matrix(0.89429453,0,0,0.92044697,3.6587945,7.8770065)">
+<path style="stroke-linejoin:round;stroke-width:11.547" id="path3903" d="m 59.5908,17.6094 36.3372,24.1419 -68.3025,42.804 m -0,-39.1569 68.3046,42.804 -36.8203,23.5745"/>
+<path style="stroke-width:8.181" id="path3905" d="m 57.0148,110.8751 .9148,-91.3776"/>
+</g>
+</g>
+</svg>

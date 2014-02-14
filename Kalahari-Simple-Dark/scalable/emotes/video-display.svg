@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(3.12828 0 0 2.66667 -9.75888 -7.756)" spreadMethod="reflect" id="linearGradient3218" xlink:href="#linearGradient3342" x1="15.574" x2="23.578" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(2.6843 0 0 2.5456 -102.42668 7.76707)" id="linearGradient3223" xlink:href="#linearGradient3924" y1="35.054" y2="43.378" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(2.95238 0 0 3.6 -6.85714 -.79999)" id="linearGradient3254" xlink:href="#linearGradient6592-2-7" y1="8.438" x1="12.938" y2="19.812" x2="15.25" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3234" xlink:href="#linearGradient3236" y1="98.145" y2="9" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient gradientTransform="matrix(2.67466 0 0 2.54597 -893.97886 -122.09114)" id="linearGradient3221" xlink:href="#linearGradient3912" y1="87.05" y2="94.396" x2="0" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="linearGradient3236">
+<stop offset="0" stop-color="#bebebe"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient id="linearGradient3924">
+<stop offset="0" stop-color="#464646"/>
+<stop offset=".101" stop-color="#787878"/>
+<stop offset=".561" stop-color="#828282"/>
+<stop offset=".645" stop-color="#828282"/>
+<stop offset="1" stop-color="#646464"/>
+</linearGradient>
+<linearGradient id="linearGradient3342">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient id="linearGradient6592-2-7">
+<stop offset="0" stop-color="#fff" stop-opacity=".275"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="linearGradient3912">
+<stop offset="0" stop-color="#787878"/>
+<stop offset=".35" stop-color="#b4b4b4"/>
+<stop offset=".494" stop-color="#c8c8c8"/>
+<stop offset=".589" stop-color="#e6e6e6"/>
+<stop offset="1" stop-color="#8c8c8c"/>
+</linearGradient>
+<radialGradient cx="6.703" cy="73.616" gradientTransform="matrix(5.25703 0 0 1.10674 28.76364 34.52631)" r="7.228" id="radialGradient3226" gradientUnits="userSpaceOnUse">
+<stop offset="0"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="12.244" cy="4.863" gradientTransform="matrix(3.77804 .05355 -.03518 2.99331 -14.20152 17.60478)" r="21" id="radialGradient3257" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#3c3c3c"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</radialGradient>
+</defs>
+<path opacity=".3" fill="url(#radialGradient3226)" d="m102,116c0,4.4183-17.0132,8-38,8-20.9868,0-38-3.5817-38-8 0-4.4183 17.0132-8 38-8 20.9868,0 38,3.5817 38,8z"/>
+<path fill="url(#linearGradient3221)" stroke="url(#linearGradient3223)" stroke-linejoin="round" stroke-linecap="round" stroke-width=".998" d="m47.5,97.4991c0,0 .3975,10.8386-1.5006,13.3649-1.8981,2.5263-5.675,4.1366-5.675,4.1366-2.4236,.2654-2.4437,3.5002 0,3.5002h47.3511c2.4437,0 2.4241-3.2382 0-3.5002 0,0-3.7767-1.6103-5.6748-4.1366-1.8981-2.5263-1.5006-13.3649-1.5006-13.3649h-32.9831-.0169z" stroke-dashoffset=".5"/>
+<path fill="none" stroke="url(#linearGradient3218)" stroke-linecap="square" d="m40.5248,117.5h46.9504"/>
+<path fill="#1a1a1a" stroke="url(#linearGradient3234)" stroke-linejoin="round" stroke-linecap="round" d="m4.2779,9.5005h119.4441a2.7778,2.6667 0 0,1 2.778,2.6667v82.666a2.7778,2.6667 0 0,1 -2.778,2.6667h-119.4441a2.7778,2.6667 0 0,1 -2.7778-2.6667v-82.666a2.7778,2.6667 0 0,1 2.7778-2.6667" stroke-dashoffset=".5"/>
+<path fill="url(#radialGradient3257)" fill-rule="evenodd" d="m8,16h112v75h-112z"/>
+<path fill="url(#linearGradient3254)" d="m2,10h124v28.8l-124,25.2v-54z"/>
+<path opacity=".3" fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round" d="m5.2335,10.5003h117.5335a2.7333,2.6061 0 0,1 2.733,2.6061v80.7876a2.7333,2.6061 0 0,1 -2.733,2.6061h-117.5335a2.7333,2.6061 0 0,1 -2.7333-2.6061v-80.7876a2.7333,2.6061 0 0,1 2.7333-2.6061" stroke-dashoffset=".5"/>
+</svg>

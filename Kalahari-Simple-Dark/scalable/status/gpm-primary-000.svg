@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(.99137 0 0 .97635 125.56453 147.89479)" xlink:href="#linearGradient4120" id="linearGradient3054" y1="-25.869" x1="-48.553" y2="-139.197" gradientUnits="userSpaceOnUse" x2="-48.56"/>
+<linearGradient gradientTransform="matrix(1.17966 0 0 1.33508 -12.67314 -21.09656)" xlink:href="#linearGradient4146" id="linearGradient3051" y1="113.536" x1="66.495" y2="17.056" gradientUnits="userSpaceOnUse" x2="66.98"/>
+<linearGradient gradientTransform="matrix(.99137 0 0 .97635 .64034 6.76574)" xlink:href="#linearGradient4002" id="linearGradient3057" y1="112.538" x1="76.313" y2="7.719" gradientUnits="userSpaceOnUse" x2="76.09"/>
+<linearGradient id="linearGradient4151">
+<stop offset="0" stop-color="#e4e4e4"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient xlink:href="#linearGradient4151" id="linearGradient3375" y1="277.13" x1="143.801" y2="20.095" gradientUnits="userSpaceOnUse" x2="138.508"/>
+<linearGradient id="linearGradient4002">
+<stop offset="0" stop-color="#e7e7e7"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+<linearGradient id="linearGradient4146">
+<stop offset="0" stop-color="#2f2f2f"/>
+<stop offset="1" stop-color="#999"/>
+</linearGradient>
+<linearGradient id="linearGradient4120">
+<stop offset="0" stop-color="#e4e4e4"/>
+<stop offset="1" stop-color="#fff"/>
+</linearGradient>
+</defs>
+<g fill="none">
+<path stroke="url(#linearGradient3057)" stroke-width="8" d="m9.9968,28.2572h108.2582a5.6978,4.0433 0 0,1 5.698,4.0433v68.0895a5.6978,4.0433 0 0,1 -5.698,4.043h-108.2582a5.6978,4.0433 0 0,1 -5.6978-4.043v-68.0895a5.6978,4.0433 0 0,1 5.6978-4.0433"/>
+<path stroke="url(#linearGradient3054)" stroke-width="8.004" d="m5.1574,67.139 118.4565,.3493"/>
+</g>
+<path fill="url(#linearGradient3051)" d="m27.8406,49.016h73.1054v34.8662h-73.1054z"/>
+<g stroke-linejoin="round" stroke-linecap="round">
+<path fill="#fff" stroke="url(#linearGradient3375)" color="#000" stroke-width="24.227" d="m268.5714,149.505a91.4286,91.4286 0 1,1 -182.8572,0 91.4286,91.4286 0 1,1 182.8572,0z" transform="matrix(.46121 0 0 .46112 -16.65574 -1.88627)"/>
+<g fill="none" stroke="#a90c0c" stroke-width="12.913">
+<path inkscape:path-effect="#path-effect3592" d="m48.2366,50.8858 33.6145,33.6084 0-.4542"/>
+<path inkscape:path-effect="#path-effect3598" d="m81.8511,50.8858-33.6145,33.6084 0-.4542"/>
+</g>
+</g>
+</svg>
